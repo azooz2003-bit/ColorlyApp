@@ -3,6 +3,7 @@ A fun app I built that connects users in a social feed based on a color they cho
 
 # Technologies:
 Frameworks: Swift, SwiftUI
+
 Cloud/Database: Firebase Auth, Firestore
 
 # App walkthrough:

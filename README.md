@@ -2,7 +2,7 @@
 A fun app I built that connects users in a social feed based on a color they chose during sign-up.
 
 # Technologies:
-Frameworks: Swift, SwiftUI
+Languages/Frameworks: Swift, SwiftUI
 
 Cloud/Database: Firebase Auth, Firestore
 
